@@ -5,6 +5,7 @@ This project presents an interactive financial KPI dashboard for an early-stage 
 ## Project Goal
 
 To build a dynamic, interactive dashboard that analyzes monthly financial data from 2022 to 2024 to:
+
           1.Monitor financial health and operational efficiency.
           2.Identify profit-draining trends and customer acquisition inefficiencies.
           3.Provide stakeholders with a real-time snapshot of startup performance.
@@ -13,6 +14,8 @@ To build a dynamic, interactive dashboard that analyzes monthly financial data f
 ## Dataset
 
 - **File**: `Startup_Financial_KPI_Analysis_Data.csv`
+- [Large_Startup_Financial_KPI_2022_2024.csv](https://github.com/user-attachments/files/20896803/Large_Startup_Financial_KPI_2022_2024.csv)
+
 
 ## Tools Used
 
@@ -37,6 +40,7 @@ To build a dynamic, interactive dashboard that analyzes monthly financial data f
 ## Why This Analysis Matters
 
 Startups operate under high uncertainty. This analysis provides clarity on:
+
          1.Whether revenue growth is sustainable
          2.If customers are profitable in the long term
          3.How long the company can survive (cash runway)
@@ -66,6 +70,8 @@ Added color
 
 
 ##  Deliverables
+
+![Screenshot (19)](https://github.com/user-attachments/assets/305e54a3-1bb0-445d-ad2d-fb7b9900a425)
 
 
 
